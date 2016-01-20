@@ -1,0 +1,1 @@
+/home/zhangxuelei/hustzxl/TextProposals/code/CMakeFiles/img2hierarchy.dir
